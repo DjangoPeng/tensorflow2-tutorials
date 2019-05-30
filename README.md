@@ -8,5 +8,5 @@ This project is designed to help users quickly master the key features and usage
 
 ####  CTA 2019 深度学习培训 《TensorFlow 2.0 基础+实战》
 
-- [课程介绍]((https://bss.csdn.net/m/topic/cta_meet/detail?mid=1952&id=8765))
+- [课程介绍](https://bss.csdn.net/m/topic/cta_meet/detail?mid=1952&id=8765)
 - [培训资料](./CTA2019-DL)
