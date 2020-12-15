@@ -1,5 +1,5 @@
 # Python 3.6.3 + Jupyter Notebook
-TensorFlow==2.0-alpha0
+TensorFlow~> 2.4.0
 keras==2.2.4
 matplotlib==3.0.3
 opencv-python==4.1.0.25
